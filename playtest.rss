@@ -8,8 +8,8 @@
     <item>
       <title>Playtest Info</title>
       <description>
-        We are aware of the following issues:&lt;br /&gt;
-        - Linux broken as always
+        We are aware of the following issues:
+        - Linux broken as always, game will not start when an USB stick is inserted and more than 2 monitors are connected
         - Hammer broken more or less in the same way
         - Hammer on Linux - don't even ask
         - Localization files have not been updated yet
