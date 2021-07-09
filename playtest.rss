@@ -11,10 +11,7 @@
       <title>Playtest Info</title>
       <description>
         We are aware of the following issues:
-        - Linux broken as always, game will not start when an USB stick is inserted and more than 2 monitors are connected
-        - Hammer broken more or less in the same way
-        - Hammer on Linux - don't even ask
-        - Localization files have not been updated yet
+        - Linux broken as always, game will not start when an USB stick is inserted
       </description>
       <pubDate>Thu, 8 Jul 2021 17:00:06 UTC</pubDate>
       <author>Momentum Team</author>
